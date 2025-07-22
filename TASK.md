@@ -1,4 +1,4 @@
-K3s Practice
+# Task
 
 - create NFS server
     - Share folder on your filesystem with k3s server
